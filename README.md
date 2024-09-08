@@ -1,6 +1,7 @@
 # Dynamic Price Optimization of Flight Tickets
 
 <img src = "readme_pictures/airplane.png" alt = "airplane picture" >
+<img src = "readme_pictures/maxrevenue.png" alt = "maxrevenue">
 
 ## Introduction
 This Project is about Price Optimization of Flight ticket booking prices. This dataset from Kaggle comprises details of flight bookings gathered using web scraping methods. It encompasses booking dates, journey dates, airline class, departure and arrival timings, flight duration, total stops, and prices.
