@@ -17,7 +17,7 @@ Assuming this is an airline whose current business problem is to maximize revenu
 ## Workflow
 In terms of dynamic pricing for price optimization, we’ll have these two main steps
 
-- Building the baseline model(Xgboost Regressor)to predict initial prices.
+- Building the baseline model(Random Forest Regressor)to predict initial prices.
 
 - Implementing a price optimization logic based on the business goal. To build a price optimization logic based on the predicted prices of each customer, we formulate an objective function that represents the business goals (e.g., maximizing revenue, profit) subject to certain constraints (e.g., pricing rules, number of seats left, ).
 
